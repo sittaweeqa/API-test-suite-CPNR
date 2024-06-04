@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GET superadmin_page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>abe5d226-8afd-4763-90d4-9e7f34fe3070</testCaseGuid>
+</TestCaseEntity>

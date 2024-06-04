@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>UPDATE phone-book -Not input phone</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>786fa661-d273-4b58-a08e-24197997b735</testCaseGuid>
+</TestCaseEntity>

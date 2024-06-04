@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>UPDATE ads - Not upload image</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e02482d6-a9e3-46b5-bb92-0fe0a97ca21b</testCaseGuid>
+</TestCaseEntity>

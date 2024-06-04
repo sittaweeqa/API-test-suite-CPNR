@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>POST ads - publishStart is null</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dad2c698-7771-4bf8-8934-6ff51501eafb</testCaseGuid>
+</TestCaseEntity>

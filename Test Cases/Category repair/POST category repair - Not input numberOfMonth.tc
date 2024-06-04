@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>POST category repair - Not input numberOfMonth</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fedf9c3d-0abb-431e-8369-97e482d3c4b6</testCaseGuid>
+</TestCaseEntity>

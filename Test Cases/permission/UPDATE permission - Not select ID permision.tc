@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>UPDATE permission - Not select ID permision</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>05e5329c-b4cd-44f6-aced-4e3aaec477ea</testCaseGuid>
+</TestCaseEntity>

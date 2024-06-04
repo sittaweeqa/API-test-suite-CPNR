@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>UPDATE ads - id project is null</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>452dcb09-f462-461b-936d-55427be13bcf</testCaseGuid>
+</TestCaseEntity>

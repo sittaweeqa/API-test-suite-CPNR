@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>UPDATE ads - publishEnd is null</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>55781e9b-fb8a-4648-b5b8-75bc17ed6077</testCaseGuid>
+</TestCaseEntity>

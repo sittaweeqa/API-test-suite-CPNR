@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>POST ads - id project is null</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d72ff4ce-b74d-4fe5-9946-835e183a6850</testCaseGuid>
+</TestCaseEntity>

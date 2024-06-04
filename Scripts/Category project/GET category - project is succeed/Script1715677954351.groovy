@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-response06 = WS.sendRequest(findTestObject('category project/GET project-category', [('token') : GlobalVariable.token]))
+response06 = WS.sendRequest(findTestObject('Category project/GET project-category', [('token') : GlobalVariable.token]))
 
 WS.verifyResponseStatusCode(response06, 200)
 

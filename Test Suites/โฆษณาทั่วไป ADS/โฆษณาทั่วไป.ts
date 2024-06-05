@@ -110,10 +110,10 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>e6586cc1-0438-4427-a585-32fc9834b11d</guid>
+      <guid>c8f51bef-7aa2-44ee-aa18-4cc83a950fd0</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/โฆษณาทั่วไป/UPDATE ads</testCaseId>
+      <testCaseId>Test Cases/โฆษณาทั่วไป/gen uuid</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
